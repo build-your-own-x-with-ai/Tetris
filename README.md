@@ -2,6 +2,12 @@
 
 一个零依赖的纯前端俄罗斯方块游戏。直接双击 `index.html` 用浏览器打开即可游玩。
 
+<https://build-your-own-x-with-ai.github.io/Tetris/>
+
+## 截图
+
+![俄罗斯方块](./Tetris.png)
+
 ## 运行方式
 - 本地双击打开：`index.html`
 - 或拖进浏览器窗口即可
